@@ -65,7 +65,7 @@ George
 
 Matilda
 &	* sits back down
-	* looks around in shame
+	* looks around in embarrassment
 
 ...
 ```
