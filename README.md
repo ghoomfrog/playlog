@@ -39,7 +39,7 @@ Mrs. Johnson
 	* gives George a side-eye
 	[apathetically] Yes.
 	* faces George
-	* adjusts eyeglasses
+&	* adjusts eyeglasses
 	George.
 
 George
