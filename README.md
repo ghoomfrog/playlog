@@ -16,7 +16,7 @@ Take a look at the following snippet example and try to guess what everything me
 | Episode 1: The Exam
 | Season 1
 | Always Teenagers
-| By Ghoom
+| by Ghoom
 |
 | George will try different ways to postpone the math exam.
 
@@ -80,7 +80,7 @@ Information about the story, or *abouts*, are preceded by a pipe character (`|`)
 | Episode 1: The Exam
 | Season 1
 | Always Teenagers
-| By Ghoom
+| by Ghoom
 |
 | George will try different ways to postpone the math exam.
 ```
