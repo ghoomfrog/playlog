@@ -1,6 +1,6 @@
-| Episode 1: The Exam
-| Season 1
 | Always Teenagers
+| Season 1
+| Episode 1: The Exam
 | by Ghoom
 |
 | George will try different ways to postpone the math exam.
@@ -9,47 +9,47 @@
 @ Morning
 ? George will fail to persuade Mrs. Johnson to postpone the math exam here.
 
-+ The classroom is huge.
+* The classroom is huge.
 
 Mrs. Johnson
-	* writing math stuff on whiteboard
+	writing math stuff on whiteboard
 
-+ There is a red apple on the desk.
+* There is a red apple on the desk.
 
 George
-	* raises hand
-	[hesitantly] Mrs. Johnson?
+	raises hand
+	[hesitantly] "Mrs. Johnson?"
 
 Mrs. Johnson
-	* gives George a side-eye
-	[apathetically] Yes.
-	* faces George
-	* adjusts eyeglasses
-	George.
+	gives George a side-eye
+	[apathetically] "Yes."
+	faces George
+	adjusts eyeglasses
+	"George."
 
 George
-	* about to speak
+	about to speak
 
 Mrs. Johnson
-	[teasingly] The exam will *not* be postponed, George. (This is my favorite part lol)
+	[teasingly] "The exam will *not* be postponed, George." (This is my favorite part lol)
 
 George
-	* stares at Mrs. Johnson in shock
+	stares at Mrs. Johnson in shock
 
 Matilda
-	* quickly stands up
+	quickly stands up
 
 George and Matilda
-	[desperately] But, Mrs. Johnson-
+	[desperately] "But, Mrs. Johnson-"
 
 Mrs. Johnson
-	* gives George and Matilda the death stare
+	gives George and Matilda the death stare
 
 George
-	* looks down, eyes closed
+	looks down, eyes closed
 
 Matilda
-&	* sits back down
-	* looks around in embarrassment
+&	sits back down
+	looks around in embarrassment
 
 ...

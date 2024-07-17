@@ -24,48 +24,48 @@ Take a look at the following snippet example and try to guess what everything me
 @ Morning
 ? George will fail to persuade Mrs. Johnson to postpone the math exam here.
 
-+ The classroom is huge.
+* The classroom is huge.
 
 Mrs. Johnson
-	* writing math stuff on whiteboard
+	writing math stuff on whiteboard
 
-+ There is a red apple on the desk.
+* There is a red apple on the desk.
 
 George
-	* raises hand
-	[hesitantly] Mrs. Johnson?
+	raises hand
+	[hesitantly] "Mrs. Johnson?"
 
 Mrs. Johnson
-	* gives George a side-eye
-	[apathetically] Yes.
-	* faces George
-	* adjusts eyeglasses
-	George.
+	gives George a side-eye
+	[apathetically] "Yes."
+	faces George
+	adjusts eyeglasses
+	"George."
 
 George
-	* about to speak
+	about to speak
 
 Mrs. Johnson
-	[teasingly] The exam will *not* be postponed, George. (This is my favorite part lol)
+	[teasingly] "The exam will *not* be postponed, George." (This is my favorite part lol)
 
 George
-	* stares at Mrs. Johnson in shock
+	stares at Mrs. Johnson in shock
 
 Matilda
-	* quickly stands up
+	quickly stands up
 
 George and Matilda
-	[desperately] But, Mrs. Johnson-
+	[desperately] "But, Mrs. Johnson-"
 
 Mrs. Johnson
-	* gives George and Matilda the death stare
+	gives George and Matilda the death stare
 
 George
-	* looks down, eyes closed
+	looks down, eyes closed
 
 Matilda
-&	* sits back down
-	* looks around in embarrassment
+&	sits back down
+	looks around in embarrassment
 
 ...
 ```
@@ -77,9 +77,9 @@ Matilda
 Information about the story, or *abouts*, are preceded by a pipe character (`|`).
 
 ```playlog
-| Episode 1: The Exam
-| Season 1
 | Always Teenagers
+| Season 1
+| Episode 1: The Exam
 | by Ghoom
 |
 | George will try different ways to postpone the math exam.
@@ -127,10 +127,10 @@ There are four types of scene details:
 
 <li>
 
-**Descriptions**, preceded by a plus symbol (`+`):
+**Descriptions**, preceded by an asterisk (`*`):
 
 ```playlog
-+ The classroom is huge.
+* The classroom is huge.
 ```
 
 </li>
@@ -143,28 +143,28 @@ Activities are composed of a character's name and a list of actions.
 
 ```playlog
 George
-	* raises hand
-	[hesitantly] Mrs. Johnson?
+	raises hand
+	[hesitantly] "Mrs. Johnson?"
 ```
 
-They are indented under the character's name. The first type of action is a movement, preceded by an asterisk (`*`). The second is a dialogue line, or simply *line*, which is optionally preceded by a tone-indicating expression enclosed in brackets (`[]`).
+They are indented under the character's name. The first type of action is a movement which starts with a verb and is written as is without special formatting. The second is a dialogue line, or simply *line*, which is enclosed in double quotes and is optionally preceded by a tone-indicating expression enclosed in brackets (`[]`).
 
 When two or more characters do the same thing at the same time, you can simply list out their names like so:
 
 ```playlog
 George and Matilda
-	[desperately] But, Mrs. Johnson-
+	[desperately] "But, Mrs. Johnson-"
 ```
 
 When a character does something at the same time as the previous action, no matter of which character, an ampersand (`&`) can be put before the indentation of the second character's action like so:
 
 ```playlog
 George
-	* looks down, eyes closed
+	looks down, eyes closed
 
 Matilda
-&	* sits back down
-	* looks around in shame
+&	sits back down
+	looks around in shame
 ```
 
 Any action without a preceding ampersand afer that, breaks the simultaneousness.
@@ -175,7 +175,7 @@ Comments are enclosed in parentheses and are not part of the story.
 
 ```playlog
 Mrs. Johnson
-	[teasingly] The exam will *not* be postponed, George. (This is my favorite part lol)
+	[teasingly] "The exam will *not* be postponed, George." (This is my favorite part lol)
 ```
 
 `(This is my favorite part lol)` is the comment here lol.
