@@ -33,13 +33,17 @@ Mrs. Johnson
 
 George
 	raises hand
+	
 	[hesitantly] "Mrs. Johnson?"
 
 Mrs. Johnson
 	gives George a side-eye
+	
 	[apathetically] "Yes."
+	
 	faces George
 	adjusts eyeglasses
+	
 	"George."
 
 George
@@ -144,6 +148,7 @@ Activities are composed of a character's name and a list of actions.
 ```playlog
 George
 	raises hand
+	
 	[hesitantly] "Mrs. Johnson?"
 ```
 
