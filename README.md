@@ -13,9 +13,9 @@ A document in this format is generally composed of three things:
 Take a look at the following snippet example and try to guess what everything means before we move on. Just read it line by line.
 
 ```playlog
-| Episode 1: The Exam
-| Season 1
 | Always Teenagers
+| Season 1
+| Episode 1: The Exam
 | by Ghoom
 |
 | George will try different ways to postpone the math exam.
