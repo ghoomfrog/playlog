@@ -13,16 +13,16 @@ A document in this format is generally composed of three things:
 Take a look at the following snippet example and try to guess what everything means before we move on. Just read it line by line.
 
 ```playlog
-| Always Teenagers
-| Season 1
-| Episode 1: The Exam
-| by Ghoom
-|
-| George will try different ways to postpone the math exam.
+? Always Teenagers
+? Season 1
+? Episode 1: The Exam
+? by Ghoom
+?
+? George will try different ways to postpone the math exam.
 
 > Classroom
 @ Morning
-? George will fail to persuade Mrs. Johnson to postpone the math exam here.
+= George will fail to persuade Mrs. Johnson to postpone the math exam here.
 
 * The classroom is huge.
 
@@ -78,15 +78,15 @@ Matilda
 
 ### Abouts
 
-Information about the story, or *abouts*, are preceded by a pipe character (`|`).
+Information about the story, or *abouts*, are preceded by a question mark (`?`).
 
 ```playlog
-| Always Teenagers
-| Season 1
-| Episode 1: The Exam
-| by Ghoom
-|
-| George will try different ways to postpone the math exam.
+? Always Teenagers
+? Season 1
+? Episode 1: The Exam
+? by Ghoom
+?
+? George will try different ways to postpone the math exam.
 ```
 
 You can put anything in there. Doesn't have to be in this format or order.
@@ -121,10 +121,10 @@ There are four types of scene details:
 
 <li>
 
-**Scene Summaries**, preceded by a question mark (`?`):
+**Scene Summaries**, preceded by ann equal sign (`=`):
 
 ```playlog
-? George will fail to persuade Mrs. Johnson to postpone the math exam.
+= George will fail to persuade Mrs. Johnson to postpone the math exam.
 ```
 
 </li>
