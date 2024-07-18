@@ -17,7 +17,7 @@ Take a look at the following snippet example and try to guess what everything me
 ? Season 1
 ? Episode 1: The Exam
 ? by Ghoom
-?
+
 ? George will try different ways to postpone the math exam.
 
 > Classroom
@@ -85,7 +85,7 @@ Information about the story, or *abouts*, are preceded by a question mark (`?`).
 ? Season 1
 ? Episode 1: The Exam
 ? by Ghoom
-?
+
 ? George will try different ways to postpone the math exam.
 ```
 
