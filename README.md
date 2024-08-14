@@ -36,6 +36,8 @@ George
 	
 	[hesitantly] "Mrs. Johnson?"
 
+...
+
 Mrs. Johnson
 	gives George a side-eye
 	
@@ -71,7 +73,7 @@ Matilda
 &	sits back down
 	looks around in embarrassment
 
-...
+(to be continued)
 ```
 
 ## Alright, Time to Learn
@@ -187,4 +189,13 @@ Mrs. Johnson
 
 ### Ellipsis
 
-The ellipsis (`...`) can be used as a placeholder for a part of the story that is left out or planned to be written.
+The ellipsis (`...`) can be used as a pause or lack of response.
+
+```playlog
+George
+	raises hand
+	
+	[hesitantly] "Mrs. Johnson?"
+
+...
+```
