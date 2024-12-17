@@ -123,7 +123,7 @@ There are four types of scene details:
 
 <li>
 
-**Scene Summaries**, preceded by ann equal sign (`=`):
+**Scene Summaries**, preceded by an equal sign (`=`):
 
 ```playlog
 = George will fail to persuade Mrs. Johnson to postpone the math exam.
